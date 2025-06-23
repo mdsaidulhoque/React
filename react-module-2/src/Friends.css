@@ -1,0 +1,13 @@
+.box{
+    border: 5px solid rgb(5, 3, 1);
+    border-radius: 15px;
+    padding: 5px 30px;
+    margin: 10px;
+}
+
+.friend{
+     border: 5px solid rgb(77, 42, 19);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 20px;
+}
